@@ -17,7 +17,7 @@ This algorithm has the following advantages:
 Please see the following article for detailed information and refer it in your published research:
 
 * Sugiyama, M., Borgwardt, K. M.: **Measuring Statistical Dependence via the Mutual Information Dimension**,
-	*Proceedings of the 23rd International Joint Conference on Artificial Intelligence* (*IJCAI 2013*), to appear.
+	*Proceedings of the 23rd International Joint Conference on Artificial Intelligence (IJCAI 2013)*, to appear.
 
 
 Installation
