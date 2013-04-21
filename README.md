@@ -11,7 +11,7 @@ An estimation algorithm for MID (Mutual Information Dimension), which measures s
 This algorithm has the following advantages:
 
 * **Nonlinear dependences** (and also linear dependences) can be measured,
-* **Scalable**; the average-case time complexity is *O*(*n*log*n*), where *n* is the number of data points, and
+* **Scalable**; the average-case time complexity is O(nlogn), where *n* is the number of data points, and
 * **Parameter-free**.
 
 Please see the following article for detailed information and refer it in your published research:
